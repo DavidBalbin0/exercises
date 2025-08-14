@@ -1,0 +1,8 @@
+[
+    {
+        "type": "command",
+        "details": {
+            "key": "java.debug.runJavaFile"
+        }
+    }
+]
