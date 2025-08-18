@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Solution2",
+            "request": "launch",
+            "mainClass": "Solution2",
+            "projectName": "leetcode_28729412"
+        },
+        {
+            "type": "java",
             "name": "Solution",
             "request": "launch",
             "mainClass": "Solution",
